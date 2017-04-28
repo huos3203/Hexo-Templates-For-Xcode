@@ -1,6 +1,9 @@
 
-安装目录：`~/Library/Developer/Xcode/Templates/File Templates/`
-在脚本目录下的两种安装方式：
+### 安装目录：
+
+`~/Library/Developer/Xcode/Templates/File Templates/`  
+
+### 在脚本目录下的两种安装方式：
 
 推荐时候创建替身方式安装，这样便于版本库的管理。
 
@@ -27,7 +30,7 @@ sh lntemplates.sh
 
 支持正式文档，草稿模版选项：
 
-![](img/fenlie.png)
+![](img/fenlei.png)
 
 创建完成，开始编写博客效果：
 
