@@ -19,3 +19,16 @@ rake templates:uninstall
 ```shell
 sh lntemplates.sh 
 ```
+
+### 使用效果如下：
+新建文件时,可选文件模版：
+
+![](img/moban.png)
+
+支持正式文档，草稿模版选项：
+
+![](img/fenlie.png)
+
+创建完成，开始编写博客效果：
+
+![](img/文档效果.png)
