@@ -1,6 +1,6 @@
 namespace "templates" do
   install_dir = File.expand_path("~/Library/Developer/Xcode/Templates/File Templates/HexoMD")
-  src_dir = File.expand_path("../Hexo Templates", __FILE__)
+  src_dir = File.expand_path("../HexoTemplates", __FILE__)
 
   desc "Install Hexo templates"
   task :install do
