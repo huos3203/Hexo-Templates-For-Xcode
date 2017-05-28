@@ -8,5 +8,5 @@
 
 SRC_HOME=`pwd`
 echo ${SRC_HOME}
-ln -fs ${SRC_HOME}/HexoTemplates ~/Library/Developer/Xcode/Templates/File\ Templates/HexoMD
-echo "done"
+ln -fs ${SRC_HOME}/Util/HexoTemplates ~/Library/Developer/Xcode/Templates/File\ Templates/HexoMD
+echo "安装hexo模版完成"
