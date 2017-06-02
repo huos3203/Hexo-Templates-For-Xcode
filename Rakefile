@@ -9,6 +9,7 @@ namespace "templates" do
     else
       mkdir_p install_dir
       cp_r src_dir, install_dir
+      ln_fs src_dir, install_dir
     end
   end
 
