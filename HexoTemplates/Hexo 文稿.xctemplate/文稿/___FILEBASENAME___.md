@@ -1,6 +1,6 @@
 ---
 title: <#标题#>
-date: <#创建时间#>
+date: 创建时间
 updated: <#更新时间#>
 comments: true
 tags: [<#工具#>,<#管理#>]
