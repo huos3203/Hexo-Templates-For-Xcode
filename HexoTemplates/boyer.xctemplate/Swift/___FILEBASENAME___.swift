@@ -8,6 +8,19 @@
 
 import UIKit
 
+/*:
+ 功能描述:
+ 
+ - 主要接口:
+     ```
+         接口
+     ```
+ - 主要构造器:
+     ```
+         构造器
+     ```
+ - 模块
+ */
 class ___FILEBASENAMEASIDENTIFIER___
 {
     
