@@ -43,6 +43,18 @@
 				<string>___FILEBASENAME___.md</string>
 				<key>草稿</key>
 				<string>___FILEBASENAME___.md</string>
+				<key>用例图</key>
+				<string>___FILEBASENAME___.md</string>
+				<key>时序图</key>
+				<string>___FILEBASENAME___.md</string>
+				<key>类图</key>
+				<string>___FILEBASENAME___.md</string>
+				<key>状态图</key>
+				<string>___FILEBASENAME___.md</string>
+				<key>组件图</key>
+				<string>___FILEBASENAME___.md</string>
+				<key>活动图</key>
+				<string>___FILEBASENAME___.md</string>
 			</dict>
 			<key>Name</key>
 			<string>撰稿类型:</string>
@@ -54,6 +66,12 @@
 			<array>
 				<string>文稿</string>
 				<string>草稿</string>
+				<string>用例图</string>
+				<string>时序图</string>
+				<string>类图</string>
+				<string>活动图</string>
+				<string>状态图</string>
+				<string>组件图</string>
 			</array>
 		</dict>
 	</array>
