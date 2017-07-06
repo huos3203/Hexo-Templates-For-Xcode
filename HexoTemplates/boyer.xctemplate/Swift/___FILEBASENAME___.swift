@@ -39,8 +39,8 @@ class ___FILEBASENAMEASIDENTIFIER___
     //MARK:-  getter / setter
     
     //TODO: - 将要实现
+    //FIXME: - 待修复
     
-    //FIXME: - dddd
 }
 
 
