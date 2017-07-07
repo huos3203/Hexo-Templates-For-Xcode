@@ -42,7 +42,8 @@ end note
 
 '&&&&&& 类组合模块 类模块 &&&&&&&'
 '六种组合样式:Node,Rectangle,Folder,Frame,Cloud,Database'
-package <#组合名称#> <<<#组合样式#>>>{
+scale  <#750#> <#width/height#>
+package <#module名#> <<<#模块样式#>>> <##背景色#>{
         class <#类名#><<#扩展对象#>> as <#类别名#>{
         -- <#属性组名#> -- '分隔符--,..,==,__'
         <#访问域修饰符#> <#static/abstract#> <#属性名称#>:<#类型#> = <#值1#>
