@@ -37,7 +37,7 @@ actor <#角色名称#>
 note "<#备注内容#>" as <#备注对象#>
 
 
-'#####  备注模块 left/right/top/bottom  #####'
+'#####  备注模块 位置：left/right/top/bottom  #####'
 note <#位置#>  of <#用例/角色#>: <#描述信息#>
 
 
