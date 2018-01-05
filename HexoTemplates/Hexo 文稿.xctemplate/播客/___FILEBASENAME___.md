@@ -1,18 +1,23 @@
 ---
 title: <#标题#>
+subtitle: <#标题#>
 date: 创建时间
 updated: <#更新时间#>
 comments: true
-tags: [播客]
+tags: [播客,audio]
 category: podcast
-media: /path/to/media
-image: /path/to/episode/image
-length: 6989--IN_BYTES
-type: audio/mpeg
-duration: XX:YY:AA
-chapter:
-[
-    ["00:00:00.000", "Title 1"],
-    ["OTHER STARTTIME", "Another title"]
-]
+media: /<#多媒体名.mp3#>
+image: /<#文件缩略图.png#>
+length: <#3:46#>
+mediatype: audio/mpeg
+duration: <#3:46#>
+chapters:
+    [
+        ["<#3:46#>", "Title"],
+        ["<#3:46#>", "Another title"]
+    ]
 ---
+
+more标示之前的内容可以替换subtitle副标题，为播客提供文章摘要。即post.excerpt
+<!-- more -->
+第一个播客测试了。
