@@ -55,6 +55,8 @@
 				<string>___FILEBASENAME___.md</string>
 				<key>活动图</key>
 				<string>___FILEBASENAME___.md</string>
+				<key>播客</key>
+				<string>___FILEBASENAME___.md</string>
 			</dict>
 			<key>Name</key>
 			<string>撰稿类型:</string>
@@ -72,6 +74,7 @@
 				<string>活动图</string>
 				<string>状态图</string>
 				<string>组件图</string>
+				<string>播客</string>
 			</array>
 		</dict>
 	</array>
