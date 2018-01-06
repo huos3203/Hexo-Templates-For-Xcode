@@ -20,4 +20,6 @@ chapters:
 
 more标示之前的内容可以替换subtitle副标题，为播客提供文章摘要。即post.excerpt
 <!-- more -->
+## 音乐欣赏
+{% aplayer "<#歌曲名#>" "<#歌手名#>" "/images/<#音频文件名#>" "/images/<#封面图#>.png" "autoplay" "width:70%"%}
 第一个播客测试了。
