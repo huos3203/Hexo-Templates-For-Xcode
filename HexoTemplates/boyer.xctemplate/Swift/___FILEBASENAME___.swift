@@ -21,6 +21,7 @@ import UIKit
      ```
  - 模块
  */
+@IBDesignable
 class ___FILEBASENAMEASIDENTIFIER___
 {
     

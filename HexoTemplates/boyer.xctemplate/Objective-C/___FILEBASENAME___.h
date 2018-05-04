@@ -7,6 +7,9 @@
 //
 #import <Foundation/Foundation.h>
 
+IB_DESIGNABLE
 @interface ___FILEBASENAMEASIDENTIFIER___ : NSObject
+
+@property (nonatomic,strong) IBInspectable UIColor* borderColor;
 
 @end
